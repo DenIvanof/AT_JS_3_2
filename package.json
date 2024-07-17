@@ -1,0 +1,17 @@
+{
+  "name": "atjs3_2",
+  "version": "1.0.0",
+  "description": "Любые вопросы по решению задач задавайте в чате учебной группы.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test1": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "Denis Ivanov",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.2",
+    "@types/node": "^20.14.11"
+  }
+}
